@@ -19,7 +19,7 @@
 	<packaging>pom</packaging>
 	<name>OpenMRS</name>
 	<description>Master project for the modules of OpenMRS</description>
-	<url>https://openmrs.org</url>
+	<url>http://54.82.72.129</url>
 
 	<issueManagement>
 		<system>JIRA</system>
