@@ -1080,7 +1080,7 @@
 
 	<pluginRepositories>
 		<pluginRepository>
-			<id>openmrs-repo</id>
+			<id>nexus</id>
 			<name>OpenMRS Nexus Repository</name>
 			<url>https://mavenrepo.openmrs.org/nexus/content/repositories/public</url>
 			<snapshots>
@@ -1093,12 +1093,12 @@
 		<repository>
 			<id>nexus</id>
 			<name>OpenMRS Nexus Releases</name>
-			<url>http://172.31.17.79:8081/repository/maven-releases/</url>
+			<url>http://172.31.17.79:8081/repository/openmrs/</url>
 		</repository>
 		<snapshotRepository>
 			<id>openmrs-repo</id>
 			<name>OpenMRS Nexus Snapshots</name>
-			<url>http://172.31.17.79:8081/repository/maven-snapshots/</url>
+			<url>http://172.31.17.79:8081/repository/openmrs-snap/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
