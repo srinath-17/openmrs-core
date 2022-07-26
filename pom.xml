@@ -1072,7 +1072,7 @@
 
 	<repositories>
 		<repository>
-			<id>openmrs-repo</id>
+			<id>nexus</id>
 			<name>OpenMRS Nexus Repository</name>
 			<url>https://mavenrepo.openmrs.org/nexus/content/repositories/public</url>
 		</repository>
