@@ -1082,7 +1082,7 @@
 		<pluginRepository>
 			<id>nexus</id>
 			<name>OpenMRS Nexus Repository</name>
-			<url>https://mavenrepo.openmrs.org/nexus/content/repositories/public</url>
+			<url>http://172.31.17.79:8081/repository/openmrs/public</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
