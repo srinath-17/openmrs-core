@@ -1091,14 +1091,14 @@
 
 	<distributionManagement>
 		<repository>
-			<id>openmrs-repo</id>
+			<id>nexus</id>
 			<name>OpenMRS Nexus Releases</name>
-			<url>http://54.82.72.129:8081/repository/maven-releases/</url>
+			<url>http://172.31.17.79:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>openmrs-repo</id>
 			<name>OpenMRS Nexus Snapshots</name>
-			<url>http://54.82.72.129:8081/repository/maven-snapshots/</url>
+			<url>http://172.31.17.79:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
